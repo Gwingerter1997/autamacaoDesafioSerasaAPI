@@ -1,1 +1,1 @@
-# autamacaoDesafioSerasaAPI
+# automacaoDesafioSerasaAPI
